@@ -1,8 +1,10 @@
 ## Simple Telegram Message Forwarding Bot
 
-Change ```
+Change 
+```
 TOKEN
-``` variable with both sender and group id.
+``` 
+variable with both sender and group id.
 
 Then when you run the bot messages sent to bot will be forwarded to the target group.
 
