@@ -6,7 +6,7 @@ TOKEN
 ``` 
 variable with both sender and group id.
 
-Then when you run the bot messages sent to bot will be forwarded to the target group.
+Then, when you run the bot, messages sent to the bot will be forwarded to the target group.
 
 ---
 
