@@ -12,9 +12,9 @@ def handle(msg):
     
     pprint(msg)
 
-    if msg['chat']['id'] == 407133136 : #sender id
+    if msg['chat']['id'] == 407xxxxxx : #sender id
         if content_type == 'text':
-            bot.sendMessage(-1001207292206, msg['text']) #group id
+            bot.sendMessage(-1001207xxxxxx, msg['text']) #group id
     
 
 bot = telepot.Bot(TOKEN)
